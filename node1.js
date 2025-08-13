@@ -1,5 +1,3 @@
 console.log("Hellooo GitHub!! from node1");
-let i;
-for ( i==0; i<10; i++){
-    console.log("august",i);
-}
+console.log("time is 7.51");
+console.log("13 august")
